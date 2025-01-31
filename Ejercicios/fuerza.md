@@ -7,3 +7,8 @@ El entrenamiento de fuerza se enfoca en desarrollar la musculatura mediante ejer
 - Aumenta la masa muscular y la fuerza.
 - Mejora la resistencia ósea y articular.
 - Acelera el metabolismo y ayuda en el control del peso.
+
+## Instrucciones
+1. Realiza un calentamiento de 5-10 minutos con movilidad articular y activación muscular.
+2. Ejecuta ejercicios de fuerza como sentadillas, flexiones, peso muerto, press de banca y dominadas. Haz de 3 a 5 series de 8-12 repeticiones.
+3. Termina con un enfriamiento y estiramientos para evitar tensión muscular.
