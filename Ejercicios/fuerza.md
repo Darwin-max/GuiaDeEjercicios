@@ -12,3 +12,8 @@ El entrenamiento de fuerza se enfoca en desarrollar la musculatura mediante ejer
 1. Realiza un calentamiento de 5-10 minutos con movilidad articular y activación muscular.
 2. Ejecuta ejercicios de fuerza como sentadillas, flexiones, peso muerto, press de banca y dominadas. Haz de 3 a 5 series de 8-12 repeticiones.
 3. Termina con un enfriamiento y estiramientos para evitar tensión muscular.
+
+## Consejos
+- Mantén una técnica adecuada para evitar lesiones.
+- Aumenta el peso o la resistencia de forma progresiva.
+- Descansa lo suficiente entre series y entrenamientos para una mejor recuperación.
