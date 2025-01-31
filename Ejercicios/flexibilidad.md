@@ -12,3 +12,8 @@ El entrenamiento de flexibilidad consiste en ejercicios diseñados para mejorar 
 1. Comienza con un calentamiento de 5-10 minutos para preparar los músculos.
 2. Realiza ejercicios de estiramiento estático (manteniendo la posición) o dinámico (movimientos controlados) durante al menos 15-30 minutos.
 3. Mantén cada estiramiento por 15-30 segundos sin rebotes y respira profundamente.
+
+## Consejos
+- No fuerces los estiramientos, ve progresando poco a poco.
+- Sé constante para notar mejoras en la movilidad.
+- Realiza estiramientos después de entrenar para una mejor recuperación.
