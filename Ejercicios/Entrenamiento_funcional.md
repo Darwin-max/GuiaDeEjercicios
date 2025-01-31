@@ -12,3 +12,9 @@ El entrenamiento funcional es un tipo de ejercicio que mejora la fuerza, la esta
 1. Inicia con un calentamiento de 5-10 minutos con movilidad articular y ejercicios de activación.
 2. Realiza una rutina con movimientos como sentadillas, zancadas, planchas, saltos y levantamiento de peso moderado.
 3. Finaliza con un enfriamiento y estiramientos para relajar los músculos.
+
+## Consejos
+- Mantén una postura adecuada en cada ejercicio.
+- Usa tu propio peso o resistencia adicional según tu nivel.
+- Escoge ejercicios variados para trabajar todo el cuerpo.
+
